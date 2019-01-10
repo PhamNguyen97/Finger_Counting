@@ -17,7 +17,7 @@ Count number of fingers in the image
 - Step7. Count number of fingers and find centroid of each finger.
 
 # Output
-![Alt text](Images/output.png?raw=true "output")
+![Alt text](Images/output.PNG?raw=true "output")
 
 # Dependencies
 - opencv
