@@ -13,7 +13,7 @@ Count number of fingers in the image
 - Step4. Use erosion and delation to erase small components.
 - Step5. Find centroid of each hand.
 - Step6. Do erosion until just fingers are left.
-![Alt text](Images/finger.png?raw=true "finger")
+![Alt text](Images/finger.PNG?raw=true "finger")
 - Step7. Count number of fingers and find centroid of each finger.
 
 # Output
